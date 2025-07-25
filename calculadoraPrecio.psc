@@ -131,7 +131,7 @@ Algoritmo calculadoraPrecio
 	
 	
 	// Definir si aplica cupón, porcentaje cupón y valor cupón
-	Si idCupón = 0 Entonces
+	Si idCupon = 0 Entonces
 		aplicaCupon = "No"
 		porcentajeCupon = 0
 		valorCupon = 0
